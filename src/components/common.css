@@ -1,0 +1,26 @@
+.quote-card {
+  padding: 0.5rem;
+  border: solid 2px #00ff6a;
+  margin: 0.5rem;
+  border-radius: 10px;
+  width: 90%;
+}
+.quote-card:focus {
+  border: solid 2px #ff0000;
+  width: 90%;
+}
+
+.btn {
+  padding: 0.5rem;
+  font: optional;
+  cursor: pointer;
+  border-radius: 3px;
+  background-color: aqua;
+  border-color: aqua;
+  box-shadow: bisque;
+}
+.btn:hover {
+  color: black;
+  background-color: cadetblue;
+  border-color: cadetblue;
+}
