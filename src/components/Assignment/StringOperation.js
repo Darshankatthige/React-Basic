@@ -48,7 +48,7 @@ export const StringOperation = () => {
     <div className=" p-2">
       <div>
         <strong>
-          Write a program which takes two strings as input from the user
+         1) Write a program which takes two strings as input from the user
           (string1 and str2).
         </strong>
         <ul>
